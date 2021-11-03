@@ -1,0 +1,19 @@
+IN READ Initialize function
+Jan 19, 2021 6:10:09 PM org.apache.beam.examples.subprocess.utils.CalActivityCodeUtils populateCache
+INFO: Length of file in populate cache 12
+initialized value 10 mocked method is column1,column2,column3
+CUS-TAX-INFO-EVENT,column2,1
+CUS-STATUS-EVENT,column2,1
+CUS-BASIC-EVENT,column2,1
+CUS-ADDRESS-EVENT,column2,1
+CONTACT-DETAIL-EVENT,column2,1
+CUS-PREF-EVENT-EVENT,column2,1
+CONTACT-DETAIL-EVENT,column2,1
+CUS-PREF-EVENT,column2,1
+CUSTOMER-SEARCH,column2,1
+ACCOUNT-UPDATE,column2,1
+ACCOUNT-CREATE,column2,1
+
+IN READ Initialize function
+Jan 19, 2021 6:10:09 PM org.apache.beam.examples.subprocess.utils.CalActivityCodeUtils populateCache
+INFO: Length of file in populate cache 12

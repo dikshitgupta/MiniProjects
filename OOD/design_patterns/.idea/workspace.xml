@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="060fa5cd-1a1a-41ce-8442-de4b3200fe49" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../HLMS/src/main/java/com/HLMS/HLMS/actors/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HLMS/src/main/java/com/HLMS/HLMS/actors/HouseKeeper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HLMS/src/main/java/com/HLMS/HLMS/actors/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HLMS/src/main/java/com/HLMS/HLMS/enums/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HLMS/src/main/java/com/HLMS/HLMS/enums/RoomStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HLMS/src/main/java/com/HLMS/HLMS/enums/RoomType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HLMS/src/main/java/com/HLMS/HLMS/model/Hotel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HLMS/src/main/java/com/HLMS/HLMS/model/HouseKeepingLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HLMS/src/main/java/com/HLMS/HLMS/model/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HLMS/src/main/java/com/HLMS/HLMS/model/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HLMS/src/main/java/com/HLMS/HLMS/model/Roomkey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dating/src/main/java/com/nagal/dating/Service/Tinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dating/src/main/java/com/nagal/dating/model/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dating/src/main/java/com/nagal/dating/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nagal/design/JavaPrograms/Collectn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nagal/design/dependencyinjection/FooService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nagal/design/designPatterns/decorator/BoeingDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nagal/design/designPatterns/decorator/BulletProof.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nagal/design/designPatterns/decorator/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nagal/design/designPatterns/decorator/IAircraft.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nagal/design/designPatterns/decorator/LuxuryFittings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nagal/design/designPatterns/observer/Channel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nagal/design/designPatterns/observer/app.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nagal/design/solid/DependencyInversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nagal/design/solid/InterfaceSegregation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nagal/design/solid/LIskov.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nagal/design/solid/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nagal/design/solid/shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../foodkart/src/main/java/com/dikshit/foodkart/model/Restaurant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../foodkart/src/main/java/com/dikshit/foodkart/model/RestaurantRating.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../foodkart/src/main/java/com/dikshit/foodkart/model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../foodkart/src/main/java/com/dikshit/foodkart/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../foodkart/src/main/java/com/dikshit/foodkart/model/userId.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../foodkart/src/main/java/com/dikshit/foodkart/service/RestaurantService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lbms/src/main/java/com/nagal/lbms/model/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lbms/src/main/java/com/nagal/lbms/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../splitwise/src/test/java/com/nagal/splitwise/EqualSplitTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake-Game/src/main/java/com/nagal/Snake/Game/SnakeGameApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Snake-Game/src/main/java/com/nagal/Snake/Game/SnakeGameApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake-Game/src/main/java/com/nagal/Snake/Game/models/SnakeAndLadderBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Snake-Game/src/main/java/com/nagal/Snake/Game/models/SnakeAndLadderBoard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake-Game/src/main/java/com/nagal/Snake/Game/service/DiceService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Snake-Game/src/main/java/com/nagal/Snake/Game/service/DiceService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake-Game/src/main/java/com/nagal/Snake/Game/service/SnakeAndLadderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Snake-Game/src/main/java/com/nagal/Snake/Game/service/SnakeAndLadderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.factorypath" beforeDir="false" afterPath="$PROJECT_DIR$/.factorypath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.run/DesignApplication.run.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.run/DesignApplication.run.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nagal/design/DesignApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nagal/design/DesignApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nagal/design/abstractFactory/AbstractFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nagal/design/designPatterns/abstractFactory/AbstractFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nagal/design/abstractFactory/AbstractPatternDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nagal/design/designPatterns/abstractFactory/AbstractPatternDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nagal/design/abstractFactory/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nagal/design/designPatterns/abstractFactory/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nagal/design/abstractFactory/AnimalFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nagal/design/designPatterns/abstractFactory/AnimalFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nagal/design/abstractFactory/Brown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nagal/design/designPatterns/abstractFactory/Brown.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nagal/design/abstractFactory/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nagal/design/designPatterns/abstractFactory/Color.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nagal/design/abstractFactory/ColorFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nagal/design/designPatterns/abstractFactory/ColorFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nagal/design/abstractFactory/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nagal/design/designPatterns/abstractFactory/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nagal/design/abstractFactory/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nagal/design/designPatterns/abstractFactory/Duck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nagal/design/abstractFactory/FactoryProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nagal/design/designPatterns/abstractFactory/FactoryProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nagal/design/abstractFactory/White.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nagal/design/designPatterns/abstractFactory/White.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nagal/design/builder/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nagal/design/designPatterns/builder/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nagal/design/builder/PhoneBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nagal/design/designPatterns/builder/PhoneBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nagal/design/multithreading/multi_runnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nagal/design/multithreading/multi_runnable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nagal/design/prototype/MangoTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nagal/design/designPatterns/prototype/MangoTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nagal/design/prototype/PineTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nagal/design/designPatterns/prototype/PineTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nagal/design/prototype/Position.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nagal/design/designPatterns/prototype/Position.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nagal/design/prototype/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nagal/design/designPatterns/prototype/Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nagal/design/proxy/ExpensiveObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nagal/design/designPatterns/proxy/ExpensiveObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nagal/design/proxy/ExpensiveObjectImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nagal/design/designPatterns/proxy/ExpensiveObjectImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nagal/design/proxy/ExpensiveObjectProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nagal/design/designPatterns/proxy/ExpensiveObjectProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nagal/design/proxy/ProxyDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nagal/design/designPatterns/proxy/ProxyDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nagal/design/singleton/AirforceOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nagal/design/designPatterns/singleton/AirforceOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nagal/design/singleton/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nagal/design/designPatterns/singleton/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/nagal/design/DesignApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/nagal/design/DesignApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/nagal/design/DesignApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/nagal/design/DesignApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/nagal/design/abstractFactory/AbstractFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/nagal/design/abstractFactory/AbstractPatternDriver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/nagal/design/abstractFactory/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/nagal/design/abstractFactory/AnimalFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/nagal/design/abstractFactory/Brown.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/nagal/design/abstractFactory/Color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/nagal/design/abstractFactory/ColorFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/nagal/design/abstractFactory/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/nagal/design/abstractFactory/Duck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/nagal/design/abstractFactory/FactoryProvider.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/nagal/design/abstractFactory/White.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/nagal/design/builder/Phone$PhoneBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/nagal/design/builder/Phone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/nagal/design/builder/PhoneBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/nagal/design/multithreading/multi_run.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/nagal/design/multithreading/thread1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/nagal/design/multithreading/thread1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/nagal/design/multithreading/thread2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/nagal/design/multithreading/thread2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/nagal/design/prototype/MangoTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/nagal/design/prototype/PineTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/nagal/design/prototype/Position.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/nagal/design/prototype/Tree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/nagal/design/proxy/ExpensiveObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/nagal/design/proxy/ExpensiveObjectImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/nagal/design/proxy/ExpensiveObjectProxy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/nagal/design/proxy/ProxyDriver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/nagal/design/singleton/AirforceOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/nagal/design/singleton/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nagal/design/DesignApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nagal/design/DesignApplicationTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../splitwise/src/main/java/com/nagal/splitwise/SplitwiseApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../splitwise/src/main/java/com/nagal/splitwise/SplitwiseApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../splitwise/src/main/java/com/nagal/splitwise/models/expense/Expense.java" beforeDir="false" afterPath="$PROJECT_DIR$/../splitwise/src/main/java/com/nagal/splitwise/models/expense/Expense.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../splitwise/src/main/java/com/nagal/splitwise/models/expense/PercentExpense.java" beforeDir="false" afterPath="$PROJECT_DIR$/../splitwise/src/main/java/com/nagal/splitwise/models/expense/PercentExpense.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../splitwise/src/main/java/com/nagal/splitwise/service/ExpenseManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../splitwise/src/main/java/com/nagal/splitwise/service/ExpenseManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../splitwise/src/main/java/com/nagal/splitwise/service/ExpenseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../splitwise/src/main/java/com/nagal/splitwise/service/ExpenseService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tic-tac-toe/src/main/java/com/nagal/splitwise/service/TTTService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tic-tac-toe/src/main/java/com/nagal/splitwise/service/TTTService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tic-tac-toe/target/classes/com/nagal/splitwise/TIcTacToeApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../tic-tac-toe/target/classes/com/nagal/splitwise/TIcTacToeApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tic-tac-toe/target/classes/com/nagal/splitwise/models/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/../tic-tac-toe/target/classes/com/nagal/splitwise/models/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tic-tac-toe/target/classes/com/nagal/splitwise/service/TTTService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../tic-tac-toe/target/classes/com/nagal/splitwise/service/TTTService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tic-tac-toe/target/test-classes/com/nagal/splitwise/TIcTacToeApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/../tic-tac-toe/target/test-classes/com/nagal/splitwise/TIcTacToeApplicationTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sort/sorting.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sort/sorting.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1u4UOpoUz6NmJACywPOOhThLKhC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.nagal.design.prototype" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.app">
+    <configuration name="AirforceOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nagal.design.designPatterns.singleton.AirforceOne" />
+      <module name="design_patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nagal.design.designPatterns.singleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nagal.design.designPatterns.decorator.Client" />
+      <module name="design_patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nagal.design.designPatterns.decorator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntersectionUnion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nagal.design.JavaPrograms.UnionIntersection.IntersectionUnion" />
+      <module name="design_patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nagal.design.JavaPrograms.UnionIntersection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProxyDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nagal.design.designPatterns.proxy.ProxyDriver" />
+      <module name="design_patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nagal.design.designPatterns.proxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nagal.design.designPatterns.observer.app" />
+      <module name="design_patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nagal.design.designPatterns.observer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.app" />
+        <item itemvalue="Application.ProxyDriver" />
+        <item itemvalue="Application.IntersectionUnion" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.AirforceOne" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="060fa5cd-1a1a-41ce-8442-de4b3200fe49" name="Default Changelist" comment="" />
+      <created>1623924326905</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623924326905</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="773" y="263" key="#com.intellij.ide.util.MemberChooser" timestamp="1626171527189">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="773" y="263" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1626171527189" />
+    <state x="773" y="265" key="#com.intellij.ide.util.MemberChooser/0.23.1920.994@0.23.1920.994" timestamp="1624856453362" />
+    <state x="776" y="471" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1625566273121">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="776" y="471" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1625566273121" />
+    <state x="745" y="416" width="430" height="256" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1624108548212">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="745" y="416" width="430" height="256" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1080@0.0.1920.1080" timestamp="1624108548212" />
+    <state x="689" y="263" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1623924458276">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state x="689" y="263" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1920.977@0.23.1920.977" timestamp="1623924458276" />
+    <state x="698" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1624331019734">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="698" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1624331019734" />
+    <state x="696" y="391" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1625571187979">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="696" y="391" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1080@0.0.1920.1080" timestamp="1625571187979" />
+    <state width="1878" height="173" key="GridCell.Tab.0.bottom" timestamp="1626171575360">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="173" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1626171575360" />
+    <state width="1878" height="264" key="GridCell.Tab.0.bottom/0.23.1920.977@0.23.1920.977" timestamp="1624107832014" />
+    <state width="1878" height="173" key="GridCell.Tab.0.bottom/0.23.1920.982@0.23.1920.982" timestamp="1625728698659" />
+    <state width="1878" height="173" key="GridCell.Tab.0.bottom/0.23.1920.986@0.23.1920.986" timestamp="1625640274734" />
+    <state width="1878" height="187" key="GridCell.Tab.0.bottom/0.23.1920.992@0.23.1920.992" timestamp="1624725949302" />
+    <state width="1878" height="288" key="GridCell.Tab.0.bottom/0.23.1920.994@0.23.1920.994" timestamp="1624856604251" />
+    <state width="1878" height="173" key="GridCell.Tab.0.center" timestamp="1626171575359">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="173" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1626171575359" />
+    <state width="1878" height="264" key="GridCell.Tab.0.center/0.23.1920.977@0.23.1920.977" timestamp="1624107832013" />
+    <state width="1878" height="173" key="GridCell.Tab.0.center/0.23.1920.982@0.23.1920.982" timestamp="1625728698659" />
+    <state width="1878" height="173" key="GridCell.Tab.0.center/0.23.1920.986@0.23.1920.986" timestamp="1625640274734" />
+    <state width="1878" height="187" key="GridCell.Tab.0.center/0.23.1920.992@0.23.1920.992" timestamp="1624725949301" />
+    <state width="1878" height="288" key="GridCell.Tab.0.center/0.23.1920.994@0.23.1920.994" timestamp="1624856604250" />
+    <state width="1878" height="173" key="GridCell.Tab.0.left" timestamp="1626171575358">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="173" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1626171575358" />
+    <state width="1878" height="264" key="GridCell.Tab.0.left/0.23.1920.977@0.23.1920.977" timestamp="1624107832013" />
+    <state width="1878" height="173" key="GridCell.Tab.0.left/0.23.1920.982@0.23.1920.982" timestamp="1625728698658" />
+    <state width="1878" height="173" key="GridCell.Tab.0.left/0.23.1920.986@0.23.1920.986" timestamp="1625640274733" />
+    <state width="1878" height="187" key="GridCell.Tab.0.left/0.23.1920.992@0.23.1920.992" timestamp="1624725949300" />
+    <state width="1878" height="288" key="GridCell.Tab.0.left/0.23.1920.994@0.23.1920.994" timestamp="1624856604250" />
+    <state width="1878" height="173" key="GridCell.Tab.0.right" timestamp="1626171575360">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="173" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1626171575360" />
+    <state width="1878" height="264" key="GridCell.Tab.0.right/0.23.1920.977@0.23.1920.977" timestamp="1624107832014" />
+    <state width="1878" height="173" key="GridCell.Tab.0.right/0.23.1920.982@0.23.1920.982" timestamp="1625728698659" />
+    <state width="1878" height="173" key="GridCell.Tab.0.right/0.23.1920.986@0.23.1920.986" timestamp="1625640274734" />
+    <state width="1878" height="187" key="GridCell.Tab.0.right/0.23.1920.992@0.23.1920.992" timestamp="1624725949301" />
+    <state width="1878" height="288" key="GridCell.Tab.0.right/0.23.1920.994@0.23.1920.994" timestamp="1624856604250" />
+    <state width="1878" height="218" key="GridCell.Tab.1.bottom" timestamp="1625453400806">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="218" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1625453400806" />
+    <state width="1878" height="218" key="GridCell.Tab.1.center" timestamp="1625453400805">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="218" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1625453400805" />
+    <state width="1878" height="218" key="GridCell.Tab.1.left" timestamp="1625453400804">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="218" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1625453400804" />
+    <state width="1878" height="218" key="GridCell.Tab.1.right" timestamp="1625453400805">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="218" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1625453400805" />
+    <state x="498" y="202" key="Maven.ArtifactSearchDialog" timestamp="1625234032142">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="498" y="202" key="Maven.ArtifactSearchDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1625234032142" />
+    <state x="448" y="121" key="SettingsEditor" timestamp="1625454768471">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="448" y="121" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1625454768471" />
+    <state x="667" y="295" width="586" height="490" key="find.popup" timestamp="1624108813407">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="667" y="295" width="586" height="490" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1624108813407" />
+    <state x="625" y="220" width="670" height="157" key="run.anything.popup" timestamp="1626176248830">
+      <screen x="0" y="23" width="1920" height="980" />
+    </state>
+    <state x="625" y="220" width="670" height="157" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1626171061572" />
+    <state x="625" y="220" key="run.anything.popup/0.0.1920.1080@0.23.1920.986" timestamp="1625575866861" />
+    <state x="625" y="227" key="run.anything.popup/0.23.1920.1001@0.23.1920.1001" timestamp="1624552843895" />
+    <state x="625" y="235" key="run.anything.popup/0.23.1920.977@0.23.1920.977" timestamp="1624107874398" />
+    <state x="625" y="233" key="run.anything.popup/0.23.1920.978@0.23.1920.978" timestamp="1624340341128" />
+    <state x="625" y="220" width="670" height="157" key="run.anything.popup/0.23.1920.980@0.23.1920.980" timestamp="1626176248830" />
+    <state x="625" y="220" key="run.anything.popup/0.23.1920.982@0.23.1920.982" timestamp="1624880714667" />
+    <state x="625" y="220" width="670" height="57" key="run.anything.popup/0.23.1920.984@0.23.1920.984" timestamp="1625578928693" />
+    <state x="625" y="220" width="670" height="57" key="run.anything.popup/0.23.1920.986@0.23.1920.986" timestamp="1625575866865" />
+    <state x="625" y="220" width="670" height="57" key="run.anything.popup/0.23.1920.988@0.23.1920.988" timestamp="1625453393929" />
+    <state x="625" y="220" width="670" height="57" key="run.anything.popup/0.23.1920.991@0.23.1920.991" timestamp="1625710200872" />
+    <state x="625" y="220" key="run.anything.popup/0.23.1920.992@0.23.1920.992" timestamp="1625422931721" />
+    <state x="625" y="220" key="run.anything.popup/0.23.1920.994@0.23.1920.994" timestamp="1624866485399" />
+    <state x="625" y="220" key="run.anything.popup/0.23.1920.995@0.23.1920.995" timestamp="1624603201591" />
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1624589287025">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1624589287025" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/nagal/design/DesignApplicationTests.java</url>
+          <line>14</line>
+          <properties class="com.nagal.design.DesignApplicationTests" method="givenAPlasticTreePrototypeWhenClonedThenCreateA_Clone">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/nagal/design/designPatterns/proxy/ProxyDriver.java</url>
+          <line>14</line>
+          <properties class="com.nagal.design.designPatterns.proxy.ProxyDriver" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/nagal/design/customException/CustomException.java</url>
+          <line>15</line>
+          <properties class="com.nagal.design.customException.CustomException" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/nagal/design/JavaPrograms/Collectn.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

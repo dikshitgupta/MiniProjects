@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="060fa5cd-1a1a-41ce-8442-de4b3200fe49" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nagal/code/Logger/LoggerImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nagal/code/Logger/Process.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nagal/code/Logger/driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nagal/code/bitManipulation/bittest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nagal/design/designPatterns/StructuralPatterns/adapter/PNE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nagal/design/designPatterns/StructuralPatterns/adapter/Pen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nagal/design/designPatterns/StructuralPatterns/adapter/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nagal/design/multithreading/ThreadJoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nagal/design/multithreading/UnsafeThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nagal/design/multithreading/synchronization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springdocker/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springdocker/src/main/java/com/dikshit/springdocker/Controller.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1u4UOpoUz6NmJACywPOOhThLKhC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.nagal.design.prototype" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.waitandNotify">
+    <configuration name="TestJoinMethod2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nagal.design.multithreading.TestJoinMethod2" />
+      <module name="design_patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nagal.design.multithreading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nagal.design.multithreading.ThreadClass" />
+      <module name="design_patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nagal.design.multithreading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nagal.design.designPatterns.BehavorialPatterns.observer.app" />
+      <module name="design_patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nagal.design.designPatterns.BehavorialPatterns.observer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="multi_runnable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nagal.design.multithreading.multi_runnable" />
+      <module name="design_patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nagal.design.multithreading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="waitandNotify" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nagal.design.multithreading.waitandNotify" />
+      <module name="design_patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nagal.design.multithreading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.waitandNotify" />
+        <item itemvalue="Application.TestJoinMethod2" />
+        <item itemvalue="Application.ThreadClass" />
+        <item itemvalue="Application.multi_runnable" />
+        <item itemvalue="Application.app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="060fa5cd-1a1a-41ce-8442-de4b3200fe49" name="Default Changelist" comment="" />
+      <created>1623924326905</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623924326905</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="773" y="263" key="#com.intellij.ide.util.MemberChooser" timestamp="1630384460614">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="773" y="263" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1630384460614" />
+    <state x="721" y="271" key="#com.intellij.ide.util.MemberChooser/0.23.1792.1017@0.23.1792.1017" timestamp="1630380269104" />
+    <state x="773" y="261" key="#com.intellij.ide.util.MemberChooser/0.23.1920.977@0.23.1920.977" timestamp="1630040795293" />
+    <state x="773" y="265" key="#com.intellij.ide.util.MemberChooser/0.23.1920.994@0.23.1920.994" timestamp="1624856453362" />
+    <state x="468" y="474" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1630342003631">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="468" y="474" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1630342003631" />
+    <state x="745" y="416" width="430" height="256" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1624108548212">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="745" y="416" width="430" height="256" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1080@0.0.1920.1080" timestamp="1624108548212" />
+    <state x="689" y="263" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1623924458276">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state x="689" y="263" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1920.977@0.23.1920.977" timestamp="1623924458276" />
+    <state x="698" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1624331019734">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="698" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1624331019734" />
+    <state x="696" y="391" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1625571187979">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="696" y="391" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1080@0.0.1920.1080" timestamp="1625571187979" />
+    <state width="1878" height="218" key="GridCell.Tab.0.bottom" timestamp="1630915563053">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="218" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1630915563053" />
+    <state width="1878" height="218" key="GridCell.Tab.0.bottom/0.23.1920.977@0.23.1920.977" timestamp="1630839577297" />
+    <state width="1878" height="173" key="GridCell.Tab.0.bottom/0.23.1920.982@0.23.1920.982" timestamp="1625728698659" />
+    <state width="1878" height="173" key="GridCell.Tab.0.bottom/0.23.1920.986@0.23.1920.986" timestamp="1625640274734" />
+    <state width="1878" height="187" key="GridCell.Tab.0.bottom/0.23.1920.992@0.23.1920.992" timestamp="1624725949302" />
+    <state width="1878" height="288" key="GridCell.Tab.0.bottom/0.23.1920.994@0.23.1920.994" timestamp="1624856604251" />
+    <state width="1878" height="218" key="GridCell.Tab.0.center" timestamp="1630915563052">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="218" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1630915563052" />
+    <state width="1878" height="218" key="GridCell.Tab.0.center/0.23.1920.977@0.23.1920.977" timestamp="1630839577295" />
+    <state width="1878" height="173" key="GridCell.Tab.0.center/0.23.1920.982@0.23.1920.982" timestamp="1625728698659" />
+    <state width="1878" height="173" key="GridCell.Tab.0.center/0.23.1920.986@0.23.1920.986" timestamp="1625640274734" />
+    <state width="1878" height="187" key="GridCell.Tab.0.center/0.23.1920.992@0.23.1920.992" timestamp="1624725949301" />
+    <state width="1878" height="288" key="GridCell.Tab.0.center/0.23.1920.994@0.23.1920.994" timestamp="1624856604250" />
+    <state width="1878" height="218" key="GridCell.Tab.0.left" timestamp="1630915563052">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="218" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1630915563052" />
+    <state width="1878" height="218" key="GridCell.Tab.0.left/0.23.1920.977@0.23.1920.977" timestamp="1630839577294" />
+    <state width="1878" height="173" key="GridCell.Tab.0.left/0.23.1920.982@0.23.1920.982" timestamp="1625728698658" />
+    <state width="1878" height="173" key="GridCell.Tab.0.left/0.23.1920.986@0.23.1920.986" timestamp="1625640274733" />
+    <state width="1878" height="187" key="GridCell.Tab.0.left/0.23.1920.992@0.23.1920.992" timestamp="1624725949300" />
+    <state width="1878" height="288" key="GridCell.Tab.0.left/0.23.1920.994@0.23.1920.994" timestamp="1624856604250" />
+    <state width="1878" height="218" key="GridCell.Tab.0.right" timestamp="1630915563053">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="218" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1630915563053" />
+    <state width="1878" height="218" key="GridCell.Tab.0.right/0.23.1920.977@0.23.1920.977" timestamp="1630839577296" />
+    <state width="1878" height="173" key="GridCell.Tab.0.right/0.23.1920.982@0.23.1920.982" timestamp="1625728698659" />
+    <state width="1878" height="173" key="GridCell.Tab.0.right/0.23.1920.986@0.23.1920.986" timestamp="1625640274734" />
+    <state width="1878" height="187" key="GridCell.Tab.0.right/0.23.1920.992@0.23.1920.992" timestamp="1624725949301" />
+    <state width="1878" height="288" key="GridCell.Tab.0.right/0.23.1920.994@0.23.1920.994" timestamp="1624856604250" />
+    <state width="1878" height="218" key="GridCell.Tab.1.bottom" timestamp="1630915563056">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="218" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1630915563056" />
+    <state width="1878" height="218" key="GridCell.Tab.1.center" timestamp="1630915563055">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="218" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1630915563055" />
+    <state width="1878" height="218" key="GridCell.Tab.1.left" timestamp="1630915563054">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="218" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1630915563054" />
+    <state width="1878" height="218" key="GridCell.Tab.1.right" timestamp="1630915563055">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="218" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1630915563055" />
+    <state x="498" y="202" key="Maven.ArtifactSearchDialog" timestamp="1625234032142">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="498" y="202" key="Maven.ArtifactSearchDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1625234032142" />
+    <state x="448" y="121" key="SettingsEditor" timestamp="1625454768471">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="448" y="121" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1625454768471" />
+    <state x="387" y="276" width="1145" height="617" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1630839615951">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="387" y="276" width="1145" height="617" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1080@0.0.1920.1080" timestamp="1630839615951" />
+    <state x="667" y="295" width="586" height="490" key="find.popup" timestamp="1624108813407">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="667" y="295" width="586" height="490" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1624108813407" />
+    <state x="625" y="220" width="670" height="157" key="run.anything.popup" timestamp="1630859321487">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="625" y="220" width="670" height="157" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1630859321487" />
+    <state x="625" y="220" key="run.anything.popup/0.0.1920.1080@0.23.1920.986" timestamp="1625575866861" />
+    <state x="625" y="227" key="run.anything.popup/0.23.1920.1001@0.23.1920.1001" timestamp="1624552843895" />
+    <state x="625" y="220" width="670" height="157" key="run.anything.popup/0.23.1920.977@0.23.1920.977" timestamp="1630388404676" />
+    <state x="625" y="233" key="run.anything.popup/0.23.1920.978@0.23.1920.978" timestamp="1624340341128" />
+    <state x="625" y="220" width="670" height="157" key="run.anything.popup/0.23.1920.980@0.23.1920.980" timestamp="1626176248830" />
+    <state x="625" y="220" key="run.anything.popup/0.23.1920.982@0.23.1920.982" timestamp="1624880714667" />
+    <state x="625" y="220" width="670" height="57" key="run.anything.popup/0.23.1920.984@0.23.1920.984" timestamp="1625578928693" />
+    <state x="625" y="220" width="670" height="57" key="run.anything.popup/0.23.1920.986@0.23.1920.986" timestamp="1625575866865" />
+    <state x="625" y="220" width="670" height="57" key="run.anything.popup/0.23.1920.988@0.23.1920.988" timestamp="1625453393929" />
+    <state x="625" y="220" width="670" height="57" key="run.anything.popup/0.23.1920.991@0.23.1920.991" timestamp="1625710200872" />
+    <state x="625" y="220" key="run.anything.popup/0.23.1920.992@0.23.1920.992" timestamp="1625422931721" />
+    <state x="625" y="220" key="run.anything.popup/0.23.1920.994@0.23.1920.994" timestamp="1624866485399" />
+    <state x="625" y="220" key="run.anything.popup/0.23.1920.995@0.23.1920.995" timestamp="1624603201591" />
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1624589287025">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1624589287025" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/nagal/design/DesignApplicationTests.java</url>
+          <line>14</line>
+          <properties class="com.nagal.design.DesignApplicationTests" method="givenAPlasticTreePrototypeWhenClonedThenCreateA_Clone">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/nagal/design/designPatterns/StructuralPatterns/proxy/ProxyDriver.java</url>
+          <line>14</line>
+          <properties class="com.nagal.design.designPatterns.StructuralPatterns.proxy.ProxyDriver" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/nagal/design/customException/CustomException.java</url>
+          <line>15</line>
+          <properties class="com.nagal.design.customException.CustomException" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/nagal/code/bitManipulation/bittest.java</url>
+          <line>4</line>
+          <properties class="com.nagal.code.bitManipulation.bittest" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/nagal/code/java/Collections.java</url>
+          <line>31</line>
+          <properties class="com.nagal.code.java.Collections" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/nagal/design/JavaPrograms/Collectn.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/nagal/design/multithreading/ThreadClass.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,21 @@
+  --shouldWriteInStageTwo=true
+  --pubSubMessageType=PROTO
+  --runner=DataflowRunner
+  --project=projectId
+  --tempLocation=gs://eplus-cda-bld-02-stb-euwe2-dat-dataflow02/temp
+  --stagingLocation=gs://eplus-cda-bld-02-stb-euwe2-dat-dataflow02/staging
+  --region=europe-west2
+  --zone=europe-west2-a
+  --jobName=emh-ms-cus-cal-jobs-gr7-v1
+  --subnetwork=https://www.googleapis.com/compute/v1/projects/eplus-hst-bld-02-8e0b/regions/europe-west2/subnetworks/cda-csn-euwe2-dfl
+  --usePublicIps=false
+  --serviceAccount=svc-dat-dataflow-runner@projectId.iam.gserviceaccount.com
+  --dataflowKmsKey=projects/eplus-kms-bld-02-e56a/locations/europe-west2/keyRings/krs-kms-eplus-euwe2-stb/cryptoKeys/keyhsm-kms-eplus-euwe2-stb
+  --workerMachineType=n1-standard-4
+  --autoscalingAlgorithm=THROUGHPUT_BASED
+  --maxNumWorkers=10
+  --isCalEnabled=true
+  --CalRefProjectId=eplus-dat-ide-01-b3f9
+  --CalRefBucketName=cal-df-test
+  --CalRefObjectName=beam_example/data_cal.csv
+
